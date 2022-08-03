@@ -1,6 +1,6 @@
 FROM python:3.8
 
-# set a directory for the app
+# set a directory for the app. I am trying to add some to see if i can upload files into my github account.
 WORKDIR /usr/src/app
 
 # copy all the files to the container
